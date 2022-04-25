@@ -1,0 +1,56 @@
+.detallePpp{
+    margin-top: 8%;
+}
+.precioDetalle{
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+.coment{
+    border-radius: 20px;
+}
+.imgDetalle{
+    border-radius: 20px;
+}
+.fa-star{
+    color: yellow !important;
+}
+/* media query para menor que 375px */
+@media only screen and (max-width: 375px){
+
+    .productoNuevoDtp{
+        width: 70%;
+        margin-top: 20px;
+    }
+
+}
+
+/* media query para menor que 600px */
+@media only screen and (max-width: 600px){
+
+    .productoNuevoDtp{
+        width: 70%;
+        margin-top: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px){
+
+    .productoNuevoDtp{
+        width: 40%;
+        margin-top: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 540px){
+
+    .productoNuevoDtp{
+        width: 70%;
+        margin-top: 20px;
+    }
+
+
+
+}
